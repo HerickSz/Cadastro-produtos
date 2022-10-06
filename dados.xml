@@ -1,0 +1,16 @@
+<XML>
+    <Produtos>
+        <Prod1>
+            <Nome>pc</Nome>
+            <Codigo>1</Codigo>
+            <Custo>100,00</Custo>
+            <Venda>100,00</Venda>
+        </Prod1>
+        <Prod2>
+            <Nome>pc2</Nome>
+            <Codigo>2</Codigo>
+            <Custo>100,00</Custo>
+            <Venda>100,00</Venda>
+        </Prod2>
+    </Produtos>
+</XML>

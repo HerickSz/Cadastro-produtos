@@ -1,0 +1,16 @@
+C:\Users\heric\OneDrive\Área de Trabalho\FormatarProdutos\bin\Debug\net5.0\FormatarProdutos.exe
+C:\Users\heric\OneDrive\Área de Trabalho\FormatarProdutos\bin\Debug\net5.0\FormatarProdutos.deps.json
+C:\Users\heric\OneDrive\Área de Trabalho\FormatarProdutos\bin\Debug\net5.0\FormatarProdutos.runtimeconfig.json
+C:\Users\heric\OneDrive\Área de Trabalho\FormatarProdutos\bin\Debug\net5.0\FormatarProdutos.runtimeconfig.dev.json
+C:\Users\heric\OneDrive\Área de Trabalho\FormatarProdutos\bin\Debug\net5.0\FormatarProdutos.dll
+C:\Users\heric\OneDrive\Área de Trabalho\FormatarProdutos\bin\Debug\net5.0\FormatarProdutos.pdb
+C:\Users\heric\OneDrive\Área de Trabalho\FormatarProdutos\obj\Debug\net5.0\FormatarProdutos.csproj.AssemblyReference.cache
+C:\Users\heric\OneDrive\Área de Trabalho\FormatarProdutos\obj\Debug\net5.0\FormatarProdutos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heric\OneDrive\Área de Trabalho\FormatarProdutos\obj\Debug\net5.0\FormatarProdutos.AssemblyInfoInputs.cache
+C:\Users\heric\OneDrive\Área de Trabalho\FormatarProdutos\obj\Debug\net5.0\FormatarProdutos.AssemblyInfo.cs
+C:\Users\heric\OneDrive\Área de Trabalho\FormatarProdutos\obj\Debug\net5.0\FormatarProdutos.csproj.CoreCompileInputs.cache
+C:\Users\heric\OneDrive\Área de Trabalho\FormatarProdutos\obj\Debug\net5.0\FormatarProdutos.dll
+C:\Users\heric\OneDrive\Área de Trabalho\FormatarProdutos\obj\Debug\net5.0\refint\FormatarProdutos.dll
+C:\Users\heric\OneDrive\Área de Trabalho\FormatarProdutos\obj\Debug\net5.0\FormatarProdutos.pdb
+C:\Users\heric\OneDrive\Área de Trabalho\FormatarProdutos\obj\Debug\net5.0\FormatarProdutos.genruntimeconfig.cache
+C:\Users\heric\OneDrive\Área de Trabalho\FormatarProdutos\obj\Debug\net5.0\ref\FormatarProdutos.dll
